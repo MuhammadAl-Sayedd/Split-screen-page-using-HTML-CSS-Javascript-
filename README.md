@@ -1,6 +1,6 @@
 # Split Page
 
-## Project 9 - Responsive Split Screen page with a "hover" on smooth interesting transitional effect.
+## Project 9 - Responsive Split Screen page with a "hover" on & off smooth interesting transitional effect.
 
 #### Technology used:  `HTML` `CSS` and `JavaScript` (Vanilla) .
 
