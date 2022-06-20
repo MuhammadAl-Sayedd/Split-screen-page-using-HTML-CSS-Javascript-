@@ -35,10 +35,10 @@ To get the project up and running follow the steps below:
 
 ### Features
 
-1. The page's initial preview upon loading is being split into two screen's with each having 50% of the viewport width,previewing two different type of products in each half of screen .
-2. Hovering on any half of the screen causes this specefic half to expand into 75% of screen's width leaving the other half only 25% of the screen's width .
-3. when hovering off , the screen returns to its initial size with only 50% of the screen's width.
-4. there are two buttons on each screen with transaparent background to reveal what's beneath but having a additional styling characaterstics upon hovering.
+1. The page's initial preview upon loading is split into two screens, each having 50% of the viewport width,previewing two different types of products in each half of screen .
+2. Hovering on any half of the screen causes this specific half to expand into 75% of the screen's width leaving the other half only 25% of the screen's width.
+3. when hovering off, the screen returns to its initial size with only 50% of the screen's width.
+4. there are two buttons on each screen with transparent background to reveal what's beneath but have additional styling characaterstics upon hovering.
 5. The page is responsive to small-size screens.
 
 
