@@ -1,4 +1,4 @@
-# Split Page
+# Split Screen Page
 
 ## Project 9 - Responsive Split Screen page with a "hover" on & off smooth interesting transitional effect.
 
@@ -14,7 +14,7 @@
 
 ### Introduction
 
-Responsive split Screen Page can be used for multiple purposes of previewing such as product cards or Images. when hovering over any half of the screen it previews its content with a larger width comes in with an smooth interesting transitional effect. 
+Responsive split Screen Page can be used for multiple purposes of previewing such as product cards or Images. when hovering over any half of the screen it previews its content with a larger width comes in with an smooth interesting transitional effect.The result is a very smooth and high-end UI.
 
 ## Project Structure
 
